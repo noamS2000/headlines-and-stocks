@@ -9,12 +9,12 @@ Financial data (labels): Obtained from yfinance (Yahoo Finance) after processing
 
 ## Models Explored
 
-SVC (Support Vector Classifier)
-Random Forest Classifier
-Voting Classifier (Ensemble of Logistic Regression, Random Forest Classifier, and SVC)
-Gradient Boosting Regressor
-Simple Deep Neural Network (Dense layers only)
-Recurrent Neural Network (LSTM layer, Dense layer, output layer)
-GridSearch was employed for hyperparameter optimization of the RNN model.
+- SVC (Support Vector Classifier)
+- Random Forest Classifier
+- Voting Classifier (Ensemble of Logistic Regression, Random Forest Classifier, and SVC)
+- Gradient Boosting Regressor
+- Simple Deep Neural Network (Dense layers only)
+- Recurrent Neural Network (LSTM layer, Dense layer, output layer)
+- GridSearch was employed for hyperparameter optimization of the RNN model.
 
 Enjoy:)
